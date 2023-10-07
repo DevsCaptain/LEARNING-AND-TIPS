@@ -31,5 +31,10 @@ Quy trình để bạn hoàn thành 1 task:
 ## Resolve conflict and discus them
 1. Khi gặp conflict code của bạn với các thành viên khác trong Team nếu nó liên quan đến các phần bạn thay đổi là bạn chắc chắn về điều đó hãy resolve nó. Ngược lại hãy tìm người conflict với bạn để giải quyết
 
+## Tech we love
+1. ![Flutter](./assets/flutter.png) Flutter</br>
+2. ![NestJs](./assets/nestjs.png) NestJs</br>
+3. ![NextJs](./assets/nextjs.png) NextJs</br>
+4. Python, React, Angular, Node.js, Docker, ORMs, NoSQL, SQL,...
 ### HAPPY WORKING 💯
 
