@@ -2,7 +2,7 @@
 
 ## Git follow
 
-![Git follow](./assets//git-follow.png)
+![Git follow](./assets//git-follow.webp)
 
 - **Commit**: [Your name] description commit
 - **Pull request**: [Your name] description PR
